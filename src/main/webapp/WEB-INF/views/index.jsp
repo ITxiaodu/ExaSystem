@@ -22,8 +22,8 @@
 
 <body class="fixed-sidebar full-height-layout gray-bg" style="overflow:hidden">
 <div id ="header" style="padding-left:30px;height:75px;width:auto;background-color:#2f4050">
-    <p style="padding-top:15px;font-size:25px;color:white;font-family:'黑体'">考试平台管理系统</p>
-    <p style="padding-top:5px;font-size:18px;color:white;font-family:'黑体';margin-top:-20px">Examination platform management system</p>
+    <p style="padding-top:15px;font-size:25px;color:white;font-family:'黑体';text-align: center">考试平台管理系统</p>
+    <p style="padding-top:5px;font-size:18px;color:white;font-family:'黑体';margin-top:-20px;text-align: center">Examination platform management system</p>
 </div>
 <!--主体-->
 
