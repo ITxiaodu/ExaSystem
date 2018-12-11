@@ -49,6 +49,12 @@
                     </ul>
                 </li>
                 <li>
+                    <a href="#"><i class="fa fa-folder"></i><span class="nav-label">导师管理</span><span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level">
+                        <li><a class="J_menuItem" href="${pageContext.request.contextPath}/teacher/to">导师信息</a></li>
+                    </ul>
+                </li>
+                <li>
                     <a href="#"><i class="fa fa-folder"></i><span class="nav-label">团队管理</span><span class="fa arrow"></span></a>
                     <ul class="nav nav-second-level">
                         <li><a class="J_menuItem" href="${pageContext.request.contextPath}/team/toTeamInfo">团队信息</a></li>
